@@ -1,0 +1,45 @@
+
+#title{
+    margin: 10px 190px 10px 190px;
+
+}
+#img2{
+    width: 400px;
+    margin: 10px 500px 10px 500px;
+}
+p{
+    text-align:justify;
+}
+#info{
+    width:525px;
+    margin: 10px 445px 10px 445px;
+    border-width: 5px ;
+    border-style: dotted;
+    border-color:red ;
+    background-color: rgba(255, 196, 34, 0.781);
+    
+
+}
+
+tr,td{
+    border:solid 3px black;
+    background-color:;
+}
+table{
+    empty-cells: hide;
+    border-collapse: collapse;
+    margin: 10px 150px 10px 150px;
+    background-color: rgb(255, 187, 0)
+
+}
+td{
+    font-size: 20px;
+}
+#pic{
+    width:100px;
+    height: 150px;
+}
+#body{
+    background-image: url("images/download\ \(2\).jpeg ") ;
+
+
